@@ -1,0 +1,2 @@
+xpack.encryptedSavedObjects.encryptionKey: "min32zeichenlangerkey-siem-2026!!"
+xpack.security.enabled: false
